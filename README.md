@@ -42,4 +42,4 @@ Here’s a short list of what I love doing:
 ## How You Can Reach Me
 
 1. **Email**: yourname@gmail.com  
-2. **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+2. **LinkedIn**: [View my LInkedIn](https://linkedin.com/in/yourprofile)
