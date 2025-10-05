@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 ### Introduction
 
-** Shanu**
+** Shanu **
 
-* Shanu*
+* Shanu *
