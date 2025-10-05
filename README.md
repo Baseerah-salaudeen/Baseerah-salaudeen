@@ -1,5 +1,4 @@
 # Hello, I'm Baseerah
-
 ## About Me
 
 I'm a *beginner Data Analyst* with a strong interest in **Excel**, **SQL**, **Power BI**, and **Python**.
