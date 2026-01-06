@@ -15,7 +15,6 @@ Here’s a short list of what I love doing:
 - **Cleaning messy data**
 - **Analyzing patterns in business data**
 - **Building dashboards using Excel and Power BI**
-- **Writing simple Python scripts for automation**
 - **Using SQL to filter and organize data**
 
 ---
@@ -25,7 +24,7 @@ Here’s a short list of what I love doing:
 - Excel (Pivot Tables, Functions)
 - SQL (Queries and Joins)
 - Power BI (Reports and DAX)
-- Python (pandas, matplotlib)
+- 
 
 ---
 
@@ -41,5 +40,5 @@ Here’s a short list of what I love doing:
 
 ## How You Can Reach Me
 
-1. **Email**: [View my Email](yourname@gmail.com)  
-2. **LinkedIn**: [View my LInkedIn](https://linkedin.com/in/yourprofile)
+1. **Email**: [View my Email](Baseerah20@gmail.com)  
+2. **LinkedIn**: [View my LInkedIn](https://www.linkedin.com/in/baseerah-salaudeen)
